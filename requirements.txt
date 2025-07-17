@@ -1,0 +1,32 @@
+# Core AI Libraries
+openai-whisper
+transformers
+torch
+sentence-transformers
+
+# Web and UI
+streamlit
+fastapi
+uvicorn
+python-multipart
+
+# Google Gemini (Generative AI)
+google-generativeai
+
+# Text Processing & ML
+scipy
+pandas
+scikit-learn
+nltk
+spacy
+
+# Logging and Monitoring
+loguru               # Better logging than built-in logging module
+watchdog             # Optional: for file monitoring or auto-reloads
+
+# Optional: for speaker diarization or enhancement
+# whisperx
+# pyannote.audio
+
+# Utilities
+python-dotenv
